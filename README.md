@@ -6,7 +6,6 @@ SignSpeak is a wearable assistive device that translates sign language gestures 
 
 - Real-time gesture recognition using 5 flex sensors
 - Sentence formation logic using binary mapping
-- Bluetooth communication to Android app
 - Text-to-Speech (TTS) in multiple languages (planned)
 - Modular and expandable design (e.g., with MPU6050 for ASL)
 
@@ -18,20 +17,12 @@ SignSpeak is a wearable assistive device that translates sign language gestures 
 
 - Arduino Nano
 - 5x Flex Sensors
-- HC-05 Bluetooth Module
 - Jumper wires, Breadboard/PCB
-- Android smartphone
 
-## 📱 Mobile App
-
-- Built with Kodular
-- Receives gesture data via Bluetooth
-- Converts text to speech using TTS engine
 
 ## 📁 Repository Structure
 
 - `arduino/` - Arduino source code
-- `mobile_app/` - Kodular project file and screenshots
 - `hardware/` - Circuit diagrams and BOM
 - `docs/` - Patent summary, flowchart
 - `media/` - Demo video and media assets
