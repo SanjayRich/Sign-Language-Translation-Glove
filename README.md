@@ -19,14 +19,6 @@ SignSpeak is a wearable assistive device that translates sign language gestures 
 - 5x Flex Sensors
 - Jumper wires, Breadboard/PCB
 
-
-## 📁 Repository Structure
-
-- `arduino/` - Arduino source code
-- `hardware/` - Circuit diagrams and BOM
-- `docs/` - Patent summary, flowchart
-- `media/` - Demo video and media assets
-
 ## 📜 Patent Information
 
 This project is registered under VIT IPR Cell (Document No: 02-IPR-R003).
