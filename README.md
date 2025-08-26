@@ -21,7 +21,7 @@ SignSpeak is a wearable assistive device that translates sign language gestures 
 
 ## 📜 Patent Information
 
-This project is registered under VIT IPR Cell (Document No: 02-IPR-R003).
+This project is registered under VIT IPR Cell (Document No:  IPR0002313).
 
 
 ### 🚀 Future Plans
